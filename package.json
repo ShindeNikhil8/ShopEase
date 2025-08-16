@@ -2,7 +2,7 @@
   "name": "shop_redux_proj",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ShindeNikhil8/ShopEase.git",
+  "homepage": "https://github.com/ShindeNikhil8/ShopEase",
   "dependencies": {
     "@reduxjs/toolkit": "^2.8.2",
     "@testing-library/dom": "^10.4.0",
