@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ShindeNikhil8/ShopEase.git/static/css/main.08bcffb5.css",
-    "main.js": "/ShindeNikhil8/ShopEase.git/static/js/main.5f78e27b.js",
-    "static/js/453.a3c0557b.chunk.js": "/ShindeNikhil8/ShopEase.git/static/js/453.a3c0557b.chunk.js",
-    "index.html": "/ShindeNikhil8/ShopEase.git/index.html",
-    "main.08bcffb5.css.map": "/ShindeNikhil8/ShopEase.git/static/css/main.08bcffb5.css.map",
-    "main.5f78e27b.js.map": "/ShindeNikhil8/ShopEase.git/static/js/main.5f78e27b.js.map",
-    "453.a3c0557b.chunk.js.map": "/ShindeNikhil8/ShopEase.git/static/js/453.a3c0557b.chunk.js.map"
+    "main.css": "/ShindeNikhil8/ShopEase/static/css/main.08bcffb5.css",
+    "main.js": "/ShindeNikhil8/ShopEase/static/js/main.0db3a08e.js",
+    "static/js/453.a3c0557b.chunk.js": "/ShindeNikhil8/ShopEase/static/js/453.a3c0557b.chunk.js",
+    "index.html": "/ShindeNikhil8/ShopEase/index.html",
+    "main.08bcffb5.css.map": "/ShindeNikhil8/ShopEase/static/css/main.08bcffb5.css.map",
+    "main.0db3a08e.js.map": "/ShindeNikhil8/ShopEase/static/js/main.0db3a08e.js.map",
+    "453.a3c0557b.chunk.js.map": "/ShindeNikhil8/ShopEase/static/js/453.a3c0557b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08bcffb5.css",
-    "static/js/main.5f78e27b.js"
+    "static/js/main.0db3a08e.js"
   ]
 }
